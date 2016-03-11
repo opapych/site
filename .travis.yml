@@ -1,8 +1,19 @@
 language: python
 branches:
   only:
-  - master
+    - master
+before_install:
+  - openssl aes-256-cbc -K $encrypted_2a5bd4ceda06_key -iv $encrypted_2a5bd4ceda06_iv -in deploy_key.enc -out ~/.ssh/deploy_key -d
+  - chmod u=rw,og= ~/.ssh/deploy_key
+  - echo "Host github.com" >> ~/.ssh/config
+  - echo "  IdentityFile ~/.ssh/deploy_key" >> ~/.ssh/config
+  - git --version
+  - git remote set-url origin git@github.com:opapy-ch/site.git
+  - git fetch origin -f gh-pages:gh-pages
+  - git config --global user.name "Team Opapy"
+  - git config --global user.email "info@opapy.ch"
 install:
-- pip install -r ./requirements.txt
+  - pip install -r ./requirements.txt
 script:
-- make publish github
+  - make publish
+  - make github
