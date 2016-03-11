@@ -1,2 +1,5 @@
-# opapy-ch.github.io
-Opapy - An Professional League of Legends Player
+# Opapy - An Professional League of Legends Player
+
+[![Build Status](https://travis-ci.org/opapy-ch/site.svg?branch=master)](https://travis-ci.org/opapy-ch/site)
+
+The world's first professional League of Legends player from bronze 5!!1
