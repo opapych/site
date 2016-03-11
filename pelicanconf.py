@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Team Opapy'
-SITENAME = u'Opapy - An Professional League of Legends Player'
+SITENAME = u'Opapy of Legends'
 SITEURL = ''
 GITHUB_URL= 'https://github.com/opapy-ch/site'
 DISQUS_SITENAME = "opapy-ch"
@@ -45,7 +45,7 @@ SOCIAL = (
     ('YouTube Gaming', 'https://gaming.youtube.com/channel/UCSMQz1KCumR2LiqwRg0M5Sg'),
 )
 
-DEFAULT_PAGINATION = 8
+DEFAULT_PAGINATION = 4
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True

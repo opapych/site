@@ -1,4 +1,4 @@
-Title: Team Opapy はじめました
+Title: Team Opapy 爆誕
 Date: 2016-03-09 20:50
 Slug: about_team_opapy
 Authors: Kitahara
