@@ -1,7 +1,7 @@
 Title: Team Opapy 爆誕
 Date: 2016-03-09 20:50
 Slug: about_team_opapy
-Authors: Kitahara
+Authors: kitahara
 Summary: プロゲーマーになる
 
 とある恵比寿の高級住宅街に Opapy という30歳独身の男性がいました。
