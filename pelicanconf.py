@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Team Opapy'
 SITENAME = u'Opapy - An Professional League of Legends Player'
 SITEURL = ''
-GITHUB_URL= 'https://github.com/opapy-ch/opapy-ch.github.io'
+GITHUB_URL= 'https://github.com/opapy-ch/site'
 DISQUS_SITENAME = "opapy-ch"
 
 PATH = 'content'
