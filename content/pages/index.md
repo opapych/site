@@ -11,7 +11,8 @@ The world's first professional [League of Legends](http://leagueoflegends.com/) 
 * LoL Summoner Name: opapy (オッパッピー) [na](http://na.op.gg/summoner/userName=opapy), [jp](http://jp.op.gg/summoner/userName=opapy)
 * LoL Rank:
     * Bronze 5: 2016-03-09時点
-* LoL で好きなキャラ: 準備中
+* LoL で好きなキャラ:
+    * [Fizz](http://gameinfo.na.leagueoflegends.com/en/game-info/champions/fizz/)
 
 ## Gamer profile
 
