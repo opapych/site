@@ -11,4 +11,4 @@ The world's first professional League of Legends player from bronze 5!!1
 
 ## Will you join us?
 
-Opapy is best lol player ever :)
+Opapy is best lol player ever :D
